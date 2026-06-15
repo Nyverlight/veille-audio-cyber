@@ -1,0 +1,19 @@
+{
+  "domain_label": "Cybersécurité",
+  "domain_slug": "cyber",
+  "sources_file": "config/sources_cyber.txt",
+
+  "voice": "fr-FR-RemyMultilingualNeural",
+  "rate": "+0%",
+
+  "lookback_hours": 30,
+  "max_items_fetch": 80,
+
+  "feed_title": "Ma veille cybersécurité quotidienne",
+  "feed_description": "Resume audio quotidien des actualites de la cybersecurite, en francais.",
+  "feed_author": "Veille Audio",
+  "feed_language": "fr-FR",
+
+  "base_url": "https://nyverlight.github.io/veille-audio-cyber",
+  "keep_episodes": 30
+}

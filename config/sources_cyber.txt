@@ -1,0 +1,78 @@
+# Sources RSS - Cybersécurité (établi juin 2026)
+# Une URL par ligne. Lignes vides et lignes commençant par # ignorées.
+#
+# IMPORTANT : ces URLs et les comportements anti-bot évoluent vite.
+# fetch_news.py affiche à chaque exécution un rapport de santé :
+#   - [ECHEC]            : 403 (anti-bot) ou 404 (URL morte) -> à traiter
+#   - [OK] 0/0           : flux vide ou mal parsé -> à vérifier
+#   - [OK] 0/N           : N articles existent mais tous hors fenêtre -> normal
+# Surveillez ce rapport AU PREMIER RUN et ajustez cette liste en conséquence.
+# (Plusieurs flux de presse FR ci-dessous sont en "à confirmer" : gardez ce qui
+#  répond [OK] N/N, commentez ou corrigez le reste.)
+
+# ============================================================
+#  Presse / blogs francophones
+# ============================================================
+https://www.zataz.com/feed/
+https://www.it-connect.fr/feed/
+
+# --- À confirmer au premier run (format de flux à vérifier) ---
+# LeMagIT - rubrique Sécurité (plateforme TechTarget). Si 404, ouvrir
+# https://www.lemagit.fr/actualites/Securite et récupérer l'URL RSS réelle.
+https://www.lemagit.fr/rss/Securite.xml
+# Le Monde Informatique - rubrique Sécurité.
+https://www.lemondeinformatique.fr/flux-rss/thematique/securite/rss.xml
+# Silicon.fr - rubrique Cybersécurité.
+# https://www.silicon.fr/feed
+
+# --- À surveiller (protection anti-bot, peuvent renvoyer 403 malgré
+#     l'empreinte navigateur de curl_cffi) ---
+# Numerama Cyberguerre : protégé par Cloudflare. Décommentez et testez ;
+# si 403 persistant, retirer ou passer par un proxy de flux (RSSHub).
+# https://www.numerama.com/politique/cyberguerre/feed/
+# 01net Sécurité : anti-bot ; devrait passer avec curl_cffi, à confirmer.
+https://www.01net.com/actualites/securite/feed/
+
+# ============================================================
+#  Presse / blogs anglophones
+# ============================================================
+https://feeds.feedburner.com/TheHackersNews
+https://www.bleepingcomputer.com/feed/
+https://krebsonsecurity.com/feed/
+https://www.darkreading.com/rss.xml
+https://www.securityweek.com/feed/
+https://therecord.media/feed/
+https://grahamcluley.com/feed/
+https://www.schneier.com/blog/atom.xml
+https://www.theregister.com/security/headlines.atom
+
+# ============================================================
+#  Sources primaires - CERT / agences (haute valeur, prioritaires)
+# ============================================================
+# CERT-FR (ANSSI) : alertes (volume FAIBLE, critique) + actualités/CTI.
+https://www.cert.ssi.gouv.fr/alerte/feed/
+https://www.cert.ssi.gouv.fr/actualite/feed/
+# CERT-FR avis : TRÈS gros volume (bulletins CVE quotidiens). Décommentez si
+# vous voulez la couverture vulnérabilités exhaustive ; sinon l'éditorial s'en
+# passe. À regrouper en un seul segment "vulnérabilités à surveiller".
+# https://www.cert.ssi.gouv.fr/avis/feed/
+#
+# CISA (US) : ensemble des alertes & avis de sécurité.
+https://www.cisa.gov/cybersecurity-advisories/all.xml
+# CISA ICS : vulnérabilités sur systèmes industriels / OT / IoT (automates,
+# caméras, contrôle d'accès...). PERTINENT pour la sûreté électronique.
+# Gros volume -> à trier par l'éditorial.
+https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml
+
+# ============================================================
+#  Threat intelligence / éditeurs (analyses de fond, R&D)
+# ============================================================
+https://securelist.com/feed/
+https://unit42.paloaltonetworks.com/feed/
+https://www.microsoft.com/en-us/security/blog/feed/
+https://googleprojectzero.blogspot.com/feeds/posts/default
+https://isc.sans.edu/rssfeed.xml
+
+# --- À confirmer (flux Blogger/Feedburner susceptibles d'évoluer) ---
+# Cisco Talos : si l'URL ci-dessous échoue, essayer le Feedburner Talos.
+# https://blog.talosintelligence.com/rss/
