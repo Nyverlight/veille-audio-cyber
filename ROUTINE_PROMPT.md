@@ -1,10 +1,10 @@
 # Instruction de la routine (à coller dans le champ "prompt" de la routine)
 
-Tu es chargé de produire ma veille audio quotidienne sur l'intelligence
-artificielle. Exécute les étapes suivantes dans l'ordre, dans le dépôt cloné.
+Tu es chargé de produire ma veille audio quotidienne sur la Cybersécurité. 
+Exécute les étapes suivantes dans l'ordre, dans le dépôt cloné.
 
 ## 1. Préparation
-- Exécute `bash setup.sh` (installe feedparser et edge-tts).
+- Exécute `bash setup.sh` (installe edge-tts).
 
 ## 2. Collecte
 - Exécute `python scripts/fetch_news.py --config config/config.json`.
