@@ -1,4 +1,4 @@
-# Sources RSS - Intelligence artificielle (revu juin 2026)
+# Sources RSS - Cybersécurité (revu juin 2026)
 # Une URL par ligne. Lignes vides et lignes commencant par # ignorees.
 #
 # IMPORTANT : ces URLs et les comportements anti-bot evoluent vite.
