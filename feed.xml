@@ -7,5 +7,12 @@
     <description>Resume audio quotidien des actualites de la cybersecurite, en francais.</description>
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
+    <item>
+      <title>Veille Cyber - 2026-06-16</title>
+      <description>Zero-day Cisco SD-WAN et Palo Alto exploités, l'attaque SearchLeak vise Microsoft 365 Copilot, et une campagne d'espionnage chinoise infiltre la recherche médicale et militaire nord-américaine.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-16.mp3</guid>
+      <pubDate>Tue, 16 Jun 2026 08:48:23 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-16.mp3" length="2459520" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
