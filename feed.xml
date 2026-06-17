@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-17</title>
+      <description>Failles Fortinet FortiSandbox, LiteSpeed cPanel et Cisco SD-WAN activement exploitées, espionnage chinois via SprySOCKS sous Windows, et attaques sur la chaîne d'approvisionnement WordPress, Arch Linux et JetBrains.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-17.mp3</guid>
+      <pubDate>Wed, 17 Jun 2026 04:35:57 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-17.mp3" length="2357424" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-16</title>
       <description>Zero-day Cisco SD-WAN et Palo Alto exploités, l'attaque SearchLeak vise Microsoft 365 Copilot, et une campagne d'espionnage chinoise infiltre la recherche médicale et militaire nord-américaine.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-16.mp3</guid>
