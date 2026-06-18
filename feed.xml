@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-18</title>
+      <description>Faille Joomla critique exploitée et ajoutée au catalogue CISA KEV, fuite massive de crédentiels VPN Fortinet (FortiBleed), et zero-day RoguePlanet dans Microsoft Defender.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-18.mp3</guid>
+      <pubDate>Thu, 18 Jun 2026 04:37:19 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-18.mp3" length="2235888" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-17</title>
       <description>Failles Fortinet FortiSandbox, LiteSpeed cPanel et Cisco SD-WAN activement exploitées, espionnage chinois via SprySOCKS sous Windows, et attaques sur la chaîne d'approvisionnement WordPress, Arch Linux et JetBrains.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-17.mp3</guid>
