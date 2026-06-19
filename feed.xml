@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-19</title>
+      <description>Faille Splunk activement exploitée (CISA KEV), fuite d'identifiants Fortinet FortiBleed sur 74 000 pare-feu, et correctifs critiques NGINX et Cisco ISE.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-19.mp3</guid>
+      <pubDate>Fri, 19 Jun 2026 04:37:33 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-19.mp3" length="2422944" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-17</title>
       <description>Failles Fortinet FortiSandbox, LiteSpeed cPanel et Cisco SD-WAN activement exploitées, espionnage chinois via SprySOCKS sous Windows, et attaques sur la chaîne d'approvisionnement WordPress, Arch Linux et JetBrains.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-17.mp3</guid>
