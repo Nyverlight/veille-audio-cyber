@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-20</title>
+      <description>FortiBleed expose 87 000 équipements Fortinet, faille Splunk exploitée à corriger d'urgence, et attaque de la chaîne Klue/Salesforce touchant des acteurs de la cybersécurité.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-20.mp3</guid>
+      <pubDate>Sat, 20 Jun 2026 04:37:01 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-20.mp3" length="2366496" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-19</title>
       <description>Faille Splunk activement exploitée (CISA KEV), fuite d'identifiants Fortinet FortiBleed sur 74 000 pare-feu, et correctifs critiques NGINX et Cisco ISE.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-19.mp3</guid>
