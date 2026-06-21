@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-21</title>
+      <description>Faille WordPress Gravity SMTP activement exploitée, attaque de la chaîne d'approvisionnement npm Mastra AI attribuée à la Corée du Nord, et nouveau rançongiciel Prinz Eugen.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-21.mp3</guid>
+      <pubDate>Sun, 21 Jun 2026 04:36:21 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-21.mp3" length="1759680" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-20</title>
       <description>FortiBleed expose 87 000 équipements Fortinet, faille Splunk exploitée à corriger d'urgence, et attaque de la chaîne Klue/Salesforce touchant des acteurs de la cybersécurité.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-20.mp3</guid>
