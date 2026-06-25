@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-25</title>
+      <description>Failles Cisco activement exploitées, alertes CISA sur Ubiquiti et Lantronix, et démantèlement des malwares Amadey et StealC dans l'opération Endgame.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-25.mp3</guid>
+      <pubDate>Thu, 25 Jun 2026 04:37:32 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-25.mp3" length="2487888" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-24</title>
       <description>Campagne FortiBleed contre les pare-feu FortiGate, faille Cisco activement exploitée et fuite de données LastPass via l'attaque de la chaîne d'approvisionnement Klue.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-24.mp3</guid>
