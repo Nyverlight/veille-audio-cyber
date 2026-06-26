@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-26</title>
+      <description>Failles Cisco SD-WAN et CUCM activement exploitées, vague d'avis industriels critiques (EVoke, pydicom, Schneider), et nouvelles campagnes Mistic, Gaslight et Gamaredon.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-26.mp3</guid>
+      <pubDate>Fri, 26 Jun 2026 04:38:16 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-26.mp3" length="2550672" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-24</title>
       <description>Campagne FortiBleed contre les pare-feu FortiGate, faille Cisco activement exploitée et fuite de données LastPass via l'attaque de la chaîne d'approvisionnement Klue.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-24.mp3</guid>
