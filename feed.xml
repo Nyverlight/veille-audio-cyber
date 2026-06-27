@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-27</title>
+      <description>CISA impose des correctifs urgents pour Cisco et PTC Windchill exploités, le FBI alerte sur le vol des clés de sauvegarde Signal par la Russie, et la campagne Miasma piège plus de vingt paquets npm.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-27.mp3</guid>
+      <pubDate>Sat, 27 Jun 2026 04:37:18 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-27.mp3" length="2389824" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-26</title>
       <description>Failles Cisco SD-WAN et CUCM activement exploitées, vague d'avis industriels critiques (EVoke, pydicom, Schneider), et nouvelles campagnes Mistic, Gaslight et Gamaredon.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-26.mp3</guid>
