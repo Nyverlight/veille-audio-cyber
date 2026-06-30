@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-06-30</title>
+      <description>SimpleHelp et Oracle E-Business activement exploités, fuites Oracle PeopleSoft chez Nissan et la NAIC via ShinyHunters, et vague d'extensions de navigateur malveillantes.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-30.mp3</guid>
+      <pubDate>Tue, 30 Jun 2026 04:37:22 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-30.mp3" length="2533680" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-29</title>
       <description>Fuite de données à l'INSEE (12 800 agents), violation chez l'opérateur japonais KDDI exposant jusqu'à 14,2 millions d'identifiants de messagerie, et alerte sur une arnaque au prélèvement de 69 € personnalisée avec IBAN.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-29.mp3</guid>
