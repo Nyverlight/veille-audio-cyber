@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-07-01</title>
+      <description>BlueHammer, la faille Microsoft Defender exploitée par les rançongiciels ; Oracle E-Business Suite et SimpleHelp attaqués dans la nature ; fuite Aflac Japon et vague d'attaques contre les navigateurs et agents IA.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-07-01.mp3</guid>
+      <pubDate>Wed, 01 Jul 2026 04:37:29 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-07-01.mp3" length="2384064" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-30</title>
       <description>SimpleHelp et Oracle E-Business activement exploités, fuites Oracle PeopleSoft chez Nissan et la NAIC via ShinyHunters, et vague d'extensions de navigateur malveillantes.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-30.mp3</guid>
