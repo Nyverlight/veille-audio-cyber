@@ -8,6 +8,13 @@
     <itunes:author>Veille Audio</itunes:author>
     <itunes:image href="https://nyverlight.github.io/veille-audio-cyber/cover.jpg" />
     <item>
+      <title>Veille Cyber - 2026-07-02</title>
+      <description>Faille SharePoint exploitée et ajoutée au catalogue CISA, avalanche de correctifs critiques Adobe, Citrix, Apple et Chrome, et la campagne de vol d'identifiants Fortinet FortiBleed liée aux rançongiciels Lynx et INC.</description>
+      <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-07-02.mp3</guid>
+      <pubDate>Thu, 02 Jul 2026 04:37:30 +0000</pubDate>
+      <enclosure url="https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-07-02.mp3" length="2349216" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Veille Cyber - 2026-06-30</title>
       <description>SimpleHelp et Oracle E-Business activement exploités, fuites Oracle PeopleSoft chez Nissan et la NAIC via ShinyHunters, et vague d'extensions de navigateur malveillantes.</description>
       <guid>https://nyverlight.github.io/veille-audio-cyber/audio/cyber-2026-06-30.mp3</guid>
